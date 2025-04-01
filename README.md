@@ -154,6 +154,10 @@ The default link color is blue, but you can modify it by adjusting the `foregrou
 
 ---
 
+## 🎥 Video
+![MultipleTextLink](https://github.com/user-attachments/assets/0b31cc0d-a261-4381-8df7-dd8f4b08489f)
+
+
 ## 🤝 Contributing
 
 Contributions are welcome! If you have ideas for improvements or find any issues, feel free to open a pull request or submit an issue.
